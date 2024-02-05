@@ -1,3 +1,4 @@
-for i in range(0,5,2):
-   planta_atual = str(i)
-   print ("Regue Planta" + planta_atual)
+for i in range(5, 0, -1):
+   print(f"Reque os tomates{i}")
+      
+      

@@ -12,3 +12,4 @@ print(f'O index 14 e {lista_musicos[14]}')
 
 for i in range(1, len(lista_num) +1):
     print(i)
+
